@@ -1,0 +1,30 @@
+{
+  "files": {
+    "app.js": "/TimeGameTrainer/static/js/app.c0ce1829.chunk.js",
+    "app.js.map": "/TimeGameTrainer/static/js/app.c0ce1829.chunk.js.map",
+    "runtime~app.js": "/TimeGameTrainer/static/js/runtime~app.a3f6b605.js",
+    "runtime~app.js.map": "/TimeGameTrainer/static/js/runtime~app.a3f6b605.js.map",
+    "static/js/2.d82a92b4.chunk.js": "/TimeGameTrainer/static/js/2.d82a92b4.chunk.js",
+    "static/js/2.d82a92b4.chunk.js.map": "/TimeGameTrainer/static/js/2.d82a92b4.chunk.js.map",
+    "favicon-16.png": "/TimeGameTrainer/favicon-16.png",
+    "favicon-32.png": "/TimeGameTrainer/favicon-32.png",
+    "favicon.ico": "/TimeGameTrainer/favicon.ico",
+    "index.html": "/TimeGameTrainer/index.html",
+    "manifest.json": "/TimeGameTrainer/manifest.json",
+    "serve.json": "/TimeGameTrainer/serve.json",
+    "static/js/2.d82a92b4.chunk.js.LICENSE.txt": "/TimeGameTrainer/static/js/2.d82a92b4.chunk.js.LICENSE.txt",
+    "static/media/cnt.png": "/TimeGameTrainer/static/media/cnt.39454ebf.png",
+    "static/media/ferret.png": "/TimeGameTrainer/static/media/ferret.989e9e38.png",
+    "static/media/ferretlose.png": "/TimeGameTrainer/static/media/ferretlose.0c956a59.png",
+    "static/media/ferretwin.png": "/TimeGameTrainer/static/media/ferretwin.5572591f.png",
+    "static/media/game.mp3": "/TimeGameTrainer/static/media/game.8bc09c63.mp3",
+    "static/media/intro.mp3": "/TimeGameTrainer/static/media/intro.dbfad1f5.mp3",
+    "static/media/lose.mp3": "/TimeGameTrainer/static/media/lose.648ea128.mp3",
+    "static/media/win.mp3": "/TimeGameTrainer/static/media/win.c20eda0a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a3f6b605.js",
+    "static/js/2.d82a92b4.chunk.js",
+    "static/js/app.c0ce1829.chunk.js"
+  ]
+}
